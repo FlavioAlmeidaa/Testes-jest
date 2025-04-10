@@ -1,0 +1,12 @@
+# Node
+node_modules/
+.env
+*.log
+
+# Testes
+coverage/
+relatorio-teste.html
+
+# SQLite (se estiver usando)
+*.sqlite
+*.sqlite3
